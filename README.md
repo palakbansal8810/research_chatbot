@@ -1,6 +1,5 @@
 
-# Wasserstoff AI Internship Task
-
+# Inquiro
 *Repository:* https://github.com/palakbansal8810/Inquiro
 
 ---
